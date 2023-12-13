@@ -6,6 +6,10 @@
 <br><br>
 🇧🇷 - Para download das EFIs BASEs, é necessário você ser membro de qualquer categoria no canal do YouTube e conectar seu Discord à sua conta YouTube para acesso à sala `#efi-base`;
 
+![youtube_connection](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-8THGEN-COFFEE-LAKE-PUBLIC/assets/23700365/b7a44af4-8469-4534-ac50-00b72c009d55)
+<br>
+![efi-base-channel](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-8THGEN-COFFEE-LAKE-PUBLIC/assets/23700365/697f2913-87ba-4ef7-8e47-877b4d0f4c20)
+
 # Basic Info
 
 Note|Description
